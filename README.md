@@ -27,6 +27,8 @@ OpenCage API: Required for geolocation services. Obtain an API key from OpenCage
 Clone this repository:
 bash
 git clone https://github.com/Kini7686/Geolocation-Tracker-App.git
+
+
 Install dependencies:
 bash
 
