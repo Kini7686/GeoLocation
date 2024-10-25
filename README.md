@@ -29,14 +29,11 @@ bash
 git clone https://github.com/Kini7686/Geolocation-Tracker-App.git
 Install dependencies:
 bash
-pip install -r requirements.txt
 
-Install dependencies:
-bash
-Copy code
 pip install -r requirements.txt
 Run the application:
 bash
+
 python geolocation_app.py
 
 # Usage Guide
