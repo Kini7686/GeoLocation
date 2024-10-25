@@ -1,0 +1,6 @@
+geopy
+opencage
+phonenumbers
+pyttsx3
+folium
+requests
